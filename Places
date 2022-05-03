@@ -1,5 +1,6 @@
 {
   "9272120583" = {
-    "Allowed" = true
+    "KickAllowed" = true,
+    "KickMessage" = "Touch grass man..."
   }
 }
